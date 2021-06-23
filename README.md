@@ -3,7 +3,7 @@ B 站项目——云日记，使用 tomcat + jsp + servlet + mysql 完成
 
 <img src=".\img\1.png" style="zoom:50%;" />
 
-![](.\img\2.png)
+<img src=".\img\2.png" style="zoom:50%;" />
 
 ## 数据库
 
